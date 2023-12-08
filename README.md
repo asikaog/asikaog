@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asikaog
 - 👀 I’m interested in Web dev; front end & back end; coding
-- 🌱 I’m currently learning CSS
+- 🌱 I’m done learning Css frameworks 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...davidasika@gmail.com
 
